@@ -4,7 +4,7 @@
 Hi, I’m Brett London. As a Data Management Assistant, I specialize in transforming complex datasets into insightful narratives that inform decision-making and deepen our understanding of trends and patterns. My passion for data analytics drives my belief that data can tell compelling stories, offering valuable insights across various fields. I aim to use these skills to provide clear and practical insights that support effective decision-making. Eager to advance my skills further, I’m excited to take on more complex challenges and explore new opportunities in both data analytics and the broader field of data science.
 
 ### 📫 Contact or Connect with me
-- brettlon13@gmail.com
+- [<img alt = "G-Mail" width="35px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>](brettlon13@gmail.com)
 - [<img alt = "Linkedin" width="75px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/bca9ad90-21f5-4a26-a656-5f59d9ec595d"/>](https://www.linkedin.com/in/brett-london)
 
 #
