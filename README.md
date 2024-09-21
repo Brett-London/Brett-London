@@ -8,7 +8,7 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
 - [<img alt = "Linkedin" width="75px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/bca9ad90-21f5-4a26-a656-5f59d9ec595d"/>](https://www.linkedin.com/in/brett-london)
 
 #
-### 🛠️ Tools 
+### 🛠️ Tools/Softwares  
 
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
@@ -28,7 +28,7 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
 - [Excel Specialist](https://www.credential.net/b359a400-9ee9-408d-b0fa-822e4a587440#gs.fgxlou)
 - [Tableau Specialist](https://www.credential.net/b63e03ec-ba1f-4f32-aa30-582f4ed1e7e0#gs.fgxo6n)
 <p align="left">
-<img align="left" alt="Power BI" width="50px" style="padding-right:10px; "src="https://media.licdn.com/dms/image/v2/D560BAQFt7IAZ9l_7Ow/company-logo_200_200/company-logo_200_200/0/1690569168900/the_global_tech_experience_logo?e=2147483647&v=beta&t=lqTRQ7rt8aB-FfZG4uUc0apfUvzrVkxvldZtFfvgQBY"/></a> 
+<img align="left" alt="Power BI" width="40px" style="padding-right:10px; "src="https://media.licdn.com/dms/image/v2/D560BAQFt7IAZ9l_7Ow/company-logo_200_200/company-logo_200_200/0/1690569168900/the_global_tech_experience_logo?e=2147483647&v=beta&t=lqTRQ7rt8aB-FfZG4uUc0apfUvzrVkxvldZtFfvgQBY"/></a> 
 
 </p>
 <!---
