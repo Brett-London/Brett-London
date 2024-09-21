@@ -5,7 +5,8 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
 
 ### 📫 Contact or Connect with me
 - brettlon13@gmail.com
-- [Linkedin](https://www.linkedin.com/in/brett-london) <img width="75px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/bca9ad90-21f5-4a26-a656-5f59d9ec595d"/>
+- [Linkedin](https://www.linkedin.com/in/brett-london)
+- [<img alt = "Linkedin" width="75px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/bca9ad90-21f5-4a26-a656-5f59d9ec595d"/>](https://www.linkedin.com/in/brett-london)
 
 #
 ### 🛠️ Tools 
