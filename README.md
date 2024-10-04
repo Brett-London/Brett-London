@@ -34,9 +34,11 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
 #
 ### 📜 Certification’s 
 
-- [Data Analysis For Sustainability](https://www.credential.net/0cd018f7-bd82-425d-891a-08a682d31f5c#gs.fgtkxc)
-- [Excel Specialist](https://www.credential.net/b359a400-9ee9-408d-b0fa-822e4a587440#gs.fgxlou)
-- [Tableau Specialist](https://www.credential.net/b63e03ec-ba1f-4f32-aa30-582f4ed1e7e0#gs.fgxo6n)
+ [Data Analysis For Sustainability](https://www.credential.net/0cd018f7-bd82-425d-891a-08a682d31f5c#gs.fgtkxc)
+ <br />
+ [Excel Specialist](https://www.credential.net/b359a400-9ee9-408d-b0fa-822e4a587440#gs.fgxlou)
+  <br />
+ [Tableau Specialist](https://www.credential.net/b63e03ec-ba1f-4f32-aa30-582f4ed1e7e0#gs.fgxo6n)
 <p align="left">
 <img align="left" alt="Global Tech" width="40px" style="padding-right:10px; "src="https://media.licdn.com/dms/image/v2/D560BAQFt7IAZ9l_7Ow/company-logo_200_200/company-logo_200_200/0/1690569168900/the_global_tech_experience_logo?e=2147483647&v=beta&t=lqTRQ7rt8aB-FfZG4uUc0apfUvzrVkxvldZtFfvgQBY"/></a> 
 
