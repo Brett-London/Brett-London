@@ -32,7 +32,7 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
 <br />
 
 #
-### 📜 Certification’s 
+ ### 📜 Certification’s 
 
  [Data Analysis For Sustainability](https://www.credential.net/0cd018f7-bd82-425d-891a-08a682d31f5c#gs.fgtkxc)
  <br />
@@ -41,8 +41,16 @@ Hi, I’m Brett London. As a Data Management Assistant, I specialize in transfor
  [Tableau Specialist](https://www.credential.net/b63e03ec-ba1f-4f32-aa30-582f4ed1e7e0#gs.fgxo6n)
 <p align="left">
 <img align="left" alt="Global Tech" width="40px" style="padding-right:10px; "src="https://media.licdn.com/dms/image/v2/D560BAQFt7IAZ9l_7Ow/company-logo_200_200/company-logo_200_200/0/1690569168900/the_global_tech_experience_logo?e=2147483647&v=beta&t=lqTRQ7rt8aB-FfZG4uUc0apfUvzrVkxvldZtFfvgQBY"/></a> 
+<br />
 
-</p>
+#
+<div align="center">
+    
+  <h2>🐍My Contributions🐍
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Brett-London/Brett-London/output/github-contribution-grid-snake.svg" />
+ <br> 
+
 <!---
 Brett-London/Brett-London is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
