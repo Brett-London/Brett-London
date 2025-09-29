@@ -4,7 +4,7 @@
 
 **`Data Analyst`**
 
-Hi, I’m Brett London. Data Analyst, I specialize in transforming complex datasets into insightful narratives that inform decision-making and deepen our understanding of trends and patterns. My passion for data analytics drives my belief that data can tell compelling stories, offering valuable insights across various fields. I aim to use these skills to provide clear and practical insights that support effective decision-making. Eager to advance my skills further, I’m excited to take on more complex challenges and explore new opportunities in both data analytics and the broader field of data science.
+Hi, I’m Brett London. As a Data Analyst, I specialize in transforming complex datasets into insightful narratives that inform decision-making and deepen our understanding of trends and patterns. My passion for data analytics drives my belief that data can tell compelling stories, offering valuable insights across various fields. I aim to use these skills to provide clear and practical insights that support effective decision-making. Eager to advance my skills further, I’m excited to take on more complex challenges and explore new opportunities in both data analytics and the broader field of data science.
 
  </div>
  
