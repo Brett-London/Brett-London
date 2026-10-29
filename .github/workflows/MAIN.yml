@@ -39,6 +39,15 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate the 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Copy the 3D chart into './dist/'
+        run: cp profile-3d-contrib/*.svg dist/
+
       - name: Show build status
         run: git status
 

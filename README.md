@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=620&lines=Building+agentic+workflows;Developing+AI+tools;Turning+data+into+decisions" alt="Building agentic workflows. Developing AI tools. Turning data into decisions." />
 </p>
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
 ## 👋 About me
 
 I work where data, automation and AI meet. I like taking messy problems and building systems that solve them reliably, whether that is a dashboard, a pipeline, or a team of AI agents.
@@ -14,6 +16,8 @@ I work where data, automation and AI meet. I like taking messy problems and buil
 - 🛠️ Building **AI tools** that make analysis faster, cheaper, and more trustworthy
 - 📊 Turning **data** into clear stories that drive decisions
 - 🌱 Always learning, always shipping
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🧭 What I focus on
 
@@ -34,28 +38,46 @@ I work where data, automation and AI meet. I like taking messy problems and buil
   </tr>
 </table>
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
 ## 🛠️ Toolbox
 
+<p align="center"><sub><b>AI &amp; CODE</b></sub></p>
 <p align="center">
   <img alt="Python" title="Python" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   <img alt="Claude" title="Claude" width="42" src="https://cdn.simpleicons.org/claude/D97757" />&nbsp;&nbsp;
-  <img alt="SQL Server" title="SQL Server" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;
-  <img alt="MySQL" title="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="42" src="https://cdn.simpleicons.org/github/181717/white" />&nbsp;&nbsp;
+  <img alt="VS Code" title="VS Code" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+  <img alt="Visual Studio" title="Visual Studio" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+</p>
+
+<p align="center"><sub><b>DATA &amp; BI</b></sub></p>
+<p align="center">
   <img alt="PostgreSQL" title="PostgreSQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="MySQL" title="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img alt="SQL Server" title="SQL Server" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;
   <img alt="Power BI" title="Power BI" width="42" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />&nbsp;&nbsp;
   <img alt="Tableau" title="Tableau" width="42" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />&nbsp;&nbsp;
   <img alt="Excel" title="Excel" width="42" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
 </p>
+
+<p align="center"><sub><b>WORKFLOW &amp; DESIGN</b></sub></p>
 <p align="center">
-  <img alt="Git" title="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="42" src="https://cdn.simpleicons.org/github/181717/white" />&nbsp;&nbsp;
-  <img alt="VS Code" title="VS Code" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-  <img alt="Visual Studio" title="Visual Studio" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />&nbsp;&nbsp;
   <img alt="Lucidchart" title="Lucidchart" width="42" src="https://store-images.s-microsoft.com/image/apps.21470.3fa72610-07ba-489f-b48f-1fcb5ca4253a.fc3d89ad-c9dc-445c-9baa-074b7b8f0cfb.9bc93e17-dd72-4215-b8b0-0cf81a3d9925.png" />&nbsp;&nbsp;
   <img alt="Visio" title="Visio" width="42" src="https://img.icons8.com/?size=100&id=RFQgC8NwC8ij&format=png&color=000000" />
 </p>
 
-## 🐍 Contributions
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+## 📈 Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brett-London/Brett-London/output/profile-night-view.svg" />
+    <img alt="3D contribution chart" src="https://raw.githubusercontent.com/Brett-London/Brett-London/output/profile-gitblock.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
