@@ -41,6 +41,7 @@ I work where data, automation and AI meet. I like taking messy problems and buil
   <img alt="Claude" title="Claude" width="42" src="https://cdn.simpleicons.org/claude/D97757" />&nbsp;&nbsp;
   <img alt="SQL Server" title="SQL Server" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;
   <img alt="MySQL" title="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
   <img alt="Power BI" title="Power BI" width="42" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />&nbsp;&nbsp;
   <img alt="Tableau" title="Tableau" width="42" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />&nbsp;&nbsp;
   <img alt="Excel" title="Excel" width="42" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
