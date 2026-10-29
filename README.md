@@ -81,8 +81,8 @@ I work where data, automation and AI meet. I like taking messy problems and buil
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brett-London/Brett-London/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Brett-London/Brett-London/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brett-London/Brett-London/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Brett-London/Brett-London/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
