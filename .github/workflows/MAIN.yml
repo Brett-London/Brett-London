@@ -46,7 +46,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Copy the 3D chart into './dist/'
-        run: cp profile-3d-contrib/*.svg dist/
+        # The snake action creates dist/ as root, so the copy needs sudo
+        run: sudo cp profile-3d-contrib/profile-night-view.svg profile-3d-contrib/profile-gitblock.svg dist/
 
       - name: Show build status
         run: git status
