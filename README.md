@@ -54,14 +54,6 @@ I work where data, automation and AI meet. I like taking messy problems and buil
   <img alt="Visio" title="Visio" width="42" src="https://img.icons8.com/?size=100&id=RFQgC8NwC8ij&format=png&color=000000" />
 </p>
 
-## 📜 Certifications
-
-<p align="center">
-  <a href="https://www.credential.net/0cd018f7-bd82-425d-891a-08a682d31f5c"><img alt="Data Analysis for Sustainability" src="https://img.shields.io/badge/Data_Analysis_for_Sustainability-Certified-2c5364?style=for-the-badge" /></a>
-  <a href="https://www.credential.net/b359a400-9ee9-408d-b0fa-822e4a587440"><img alt="Excel Specialist" src="https://img.shields.io/badge/Excel_Specialist-Certified-217346?style=for-the-badge" /></a>
-  <a href="https://www.credential.net/b63e03ec-ba1f-4f32-aa30-582f4ed1e7e0"><img alt="Tableau Specialist" src="https://img.shields.io/badge/Tableau_Specialist-Certified-00b4d8?style=for-the-badge" /></a>
-</p>
-
 ## 🐍 Contributions
 
 <p align="center">
